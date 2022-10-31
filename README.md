@@ -50,7 +50,7 @@ iCESugar实现了一个板载的调试器iCELink，您可仅用一根USB线便�
 提取码：6gn3  
 `user: ubuntu`  
 `passwd: ubuntu`  
-所有环境包括综合(yosys)，布线(nextpnr)，打包(icesorm)，编译器(gcc) 已经预制好，启动即可开始使用。
+所有环境包括综合(yosys)，布线(nextpnr)，打包(icestorm)，编译器(gcc) 已经预制好，启动即可开始使用。
 
 # 开发环境搭建
 推荐使用虚拟机镜像进行开发测试，简单方便。  
